@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "GrmVgIrAQqY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sambh\\projs\\ecommerce-analytics\\src\\AnalyticsService\\AnalyticsService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sambh\\.nuget\\packages\\rabbitmq.client\\7.2.1\\rabbitmq.client.7.2.1.nupkg.sha512",
+    "C:\\Users\\sambh\\.nuget\\packages\\respite\\3.0.17\\respite.3.0.17.nupkg.sha512",
+    "C:\\Users\\sambh\\.nuget\\packages\\stackexchange.redis\\3.0.17\\stackexchange.redis.3.0.17.nupkg.sha512",
+    "C:\\Users\\sambh\\.nuget\\packages\\system.io.hashing\\10.0.5\\system.io.hashing.10.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
