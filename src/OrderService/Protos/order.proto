@@ -1,0 +1,32 @@
+syntax = "proto3";
+
+option csharp_namespace = "OrderService.Protos";
+
+service OrderService {
+  rpc PlaceOrder (PlaceOrderRequest) returns (PlaceOrderResponse);
+  rpc GetOrderStatus (GetOrderStatusRequest) returns (OrderStatusResponse);
+}
+
+message PlaceOrderRequest {
+  string customer_id = 1;
+  repeated OrderItem items = 2;
+}
+
+message OrderItem {
+  string product_id = 1;
+  int32 quantity = 2;
+}
+
+message PlaceOrderResponse {
+  string order_id = 1;
+  string status = 2;
+}
+
+message GetOrderStatusRequest {
+  string order_id = 1;
+}
+
+message OrderStatusResponse {
+  string order_id = 1;
+  string status = 2;
+}
