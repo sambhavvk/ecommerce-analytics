@@ -1,4 +1,3 @@
-```markdown
 # Real‑Time E‑Commerce Analytics Platform
 
 A polyglot microservices platform that tracks user behaviour, processes orders, delivers real‑time dashboards, and demonstrates integration between **.NET** and **Ruby**.
@@ -42,7 +41,7 @@ A polyglot microservices platform that tracks user behaviour, processes orders, 
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-org/ecommerce-analytics.git
+git clone https://github.com/sambhavvk/ecommerce-analytics
 cd ecommerce-analytics
 ```
 
