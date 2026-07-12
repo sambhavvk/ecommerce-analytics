@@ -4,7 +4,6 @@ A polyglot microservices platform that tracks user behaviour, processes orders, 
 
 ## Architecture
 
-![Architecture Diagram](docs/architecture.png)
 
 | Component            | Technology                       | Purpose                                   |
 |----------------------|----------------------------------|-------------------------------------------|
