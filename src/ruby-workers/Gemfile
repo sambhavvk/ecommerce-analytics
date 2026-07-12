@@ -1,0 +1,6 @@
+source 'https://rubygems.org'
+
+gem 'sidekiq', '~> 7.0'
+gem 'bunny', '~> 2.19'
+gem 'mail', '~> 2.8'
+gem 'json'
