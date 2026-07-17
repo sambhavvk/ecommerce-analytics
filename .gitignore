@@ -3,3 +3,6 @@ plan
 /src/OrderService/obj
 Debug/
 /src/ApiGateway/obj/Debug
+/src/ApiGateway/obj/Debug
+/src/AnalyticsService/bin/Debug
+/src/ApiGateway/bin/Debug
